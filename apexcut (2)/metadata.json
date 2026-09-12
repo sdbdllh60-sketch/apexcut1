@@ -1,0 +1,6 @@
+{
+  "name": "ApexCut",
+  "description": "تطبيق محرر فيديو وصور احترافي وحديث مع أدوات الذكاء الاصطناعي والقوالب وإدارة المشاريع",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
